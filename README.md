@@ -6,20 +6,33 @@
 
 ---
 
-## 💼 Featured Projects
+💼 Featured Projects
+📊 Accounts Receivable Dashboard
+An Excel + Power BI AR dashboard with aging buckets, DSO tracking, KPI cards, and interactive slicers. Built for automation-minded finance teams to boost collection visibility and performance.
 
-### 📊 [Accounts Receivable Dashboard](https://github.com/dante-vincent/finance-portfolio)
-An Excel-based AR dashboard with aging buckets, DSO tracking, and PivotCharts. Built for automation-minded finance teams.
+🔄 Payroll Reconciliation Tool
+Automated Excel tool to compare payroll vs GL summaries, flag mismatches, and ensure month-end accuracy.
 
----
+📉 Cash Flow Forecast + Scenario Planner
+Excel-based model with toggleable best/worst case scenarios, inflow/outflow assumptions, and rolling forecast logic.
 
-## 🔧 Tools & Skills
-- Excel (advanced formulas, modeling, dashboards)
-- Power BI (visualizations, DAX basics)
-- Accounting (AP/AR, month-end close, reconciliations)
-- Automation (Power Automate basics, process improvement)
+🔁 Intercompany Reconciliation Automation
+Python + Excel solution to match AR/AP entries across entities, flag mismatches, and incorporate FX revaluation support.
 
----
+🤖 AI-Powered Expense Categorizer
+NLP model that classifies expense transactions by description. Built in Python with optional GPT-enhanced tagging.
+
+🔧 Tools & Skills
+Excel (advanced formulas, Power Query, dashboards, VBA basics)
+
+Power BI (data modeling, DAX basics, visualizations)
+
+Python (pandas, NLP basics, automation scripts)
+
+Accounting (AR/AP, reconciliations, month-end close)
+
+Automation (Power Automate basics, process optimization)
+
 
 ## 📫 Let's Connect
 - [LinkedIn](https://linkedin.com/in/dante-vincent)
