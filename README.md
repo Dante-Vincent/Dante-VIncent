@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Dante Vincent
 
-<!--
-**Dante-Vincent/Dante-VIncent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Finance Supervisor | ACCA & CFA Student  
+📍 Based in London, UK – Open to opportunities in Finland 🇫🇮  
+📊 Passionate about finance process automation, analytics & reporting
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Featured Projects
+
+### 📊 [Accounts Receivable Dashboard](https://github.com/dante-vincent/finance-portfolio)
+An Excel-based AR dashboard with aging buckets, DSO tracking, and PivotCharts. Built for automation-minded finance teams.
+
+---
+
+## 🔧 Tools & Skills
+- Excel (advanced formulas, modeling, dashboards)
+- Power BI (visualizations, DAX basics)
+- Accounting (AP/AR, month-end close, reconciliations)
+- Automation (Power Automate basics, process improvement)
+
+---
+
+## 📫 Let's Connect
+- [LinkedIn](https://linkedin.com/in/dante-vincent)
+- 📧 dante1vincent@email.com
